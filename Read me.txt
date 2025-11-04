@@ -1,0 +1,52 @@
+Bonzai Payment Gateway for WooCommerce
+📦 Installation Guide
+
+Thank you for downloading Bonzai Payment Gateway for WooCommerce.
+Follow the steps below to install it manually on your WordPress website.
+
+🔧 Step-by-Step Installation
+
+Unzip this package (the main .zip you downloaded from GitHub).
+
+Inside, you’ll find:
+
+A folder named something like bonzai-gateway/
+
+A second file named bonzai-gateway.zip
+
+Upload that inner .zip file (bonzai-gateway.zip) directly in your WordPress dashboard:
+
+Go to Plugins → Add New → Upload Plugin
+
+Select the file bonzai-gateway.zip
+
+Click Install Now
+
+Then click Activate Plugin
+
+Done! 🎉
+You can now configure it in:
+
+WooCommerce → Settings → Payments → Bonzai
+
+⚙️ Requirements
+
+WordPress 6.0+
+
+WooCommerce 8.0+
+
+PHP 7.4 or higher
+
+🧠 Notes
+
+Do not upload the main GitHub package — only the inner plugin .zip file.
+
+Keep the README.md for installation instructions only.
+
+You can delete extra files after installation if you wish.
+
+🧩 Support
+
+For issues or improvements, open an Issue on GitHub.
+Author: Ramy
+Version: 1.3.0
